@@ -1,0 +1,1 @@
+NODE_ENV=mongodb+srv://pravitha:pravitha@development.vozii.mongodb.net/movie-app?retryWrites=true&w=majority
